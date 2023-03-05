@@ -1,1 +1,1 @@
-# LTV-Prediction
+# Kaggle 데이터를 이용하여 고객생애주기 예측해보기
